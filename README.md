@@ -11,3 +11,5 @@ Project Summary
 7.	Cats will also serve REST services at url prefix “rest/v1/cats”
 8.	Dogs will be persisted in NoSQL MongoDB via Spring Data
 9.	Dogs will also serve REST services at url prefix “rest/v1/dogs"
+
+This project was demoed for Ilker
